@@ -20,11 +20,11 @@ export const data =[
     },
     {
         question: "which continents has the highest number of countries",
-        Option1: "Asia",
+        Option1: "Africa",
         Option2: "Europe",
         Option3: "North America",
-        Option4: "Africa",
-        ans:4,
+        Option4: "Asia",
+        ans:1,
     },
 {
      question: "What can JSON format be used for? " ,
@@ -32,7 +32,7 @@ export const data =[
     Option2: "Sending data to the server", 
     Option3: " Receiving data from the server" ,
     Option4:" All of the above ",
-    ans:2,
+    ans:4,
 }
    
 
